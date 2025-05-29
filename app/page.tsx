@@ -266,7 +266,7 @@ export default function SpectrogramApp() {
             <div className="flex items-center gap-3">
               <div className="p-2 rounded-lg">
               <img
-                src="/Spectrogram-Generator/spectrogram_logo.png"
+                src="/spectrogram_logo.png"
                 alt="Spectrogram Generator"
                 width="32"
                 height="32"
