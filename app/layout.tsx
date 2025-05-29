@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Spectrogram Generator',
   description: 'Create a Professional Spectrogram of your Audio',
   icons: {
-    icon: '/spectrogram_logo.png',
+    icon: '/Spectrogram-Generator/spectrogram_logo.png',
   },
 }
 
