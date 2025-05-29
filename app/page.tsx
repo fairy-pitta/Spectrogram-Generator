@@ -265,7 +265,7 @@ export default function SpectrogramApp() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <div className="p-2 rounded-lg">
-                <Image src="/spectrogram_logo.png" alt="Spectrogram Generator" width={32} height={32} />
+                <Image src="spectrogram_logo.png" alt="Spectrogram Generator" width={32} height={32} />
               </div>
               <h1 className="text-xl font-bold text-gray-900">Spectrogram Generator</h1>
             </div>
